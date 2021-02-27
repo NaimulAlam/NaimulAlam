@@ -13,6 +13,8 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NaimulAlam01/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.linkedin.com/in/naimul-alam/)
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -33,16 +35,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-
-[programming]: https://naimulalam.github.io/milestone1/
-[website]: https://naimulalam.github.io/milestone1/
-[twitter]: https://naimulalam.github.io/milestone1/
-[linkedin]: https://naimulalam.github.io/milestone1/
-[webdevplaylist]: https://naimulalam.github.io/milestone1/
-[jsplaylist]: https://naimulalam.github.io/milestone1/
-[cssplaylist]: https://naimulalam.github.io/milestone1/
-[reactplaylist]: https://naimulalam.github.io/milestone1/
 
 <br />
 
@@ -53,9 +45,9 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulAlam )](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NaimulAlam)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -67,3 +59,15 @@
 
 ![Profile views](https://gpvc.arturio.dev/NaimulAlam )  
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+
+<br />
+
+[programming]: https://naimulalam.github.io/milestone1/
+[website]: https://naimulalam.github.io/milestone1/
+[twitter]: https://naimulalam.github.io/milestone1/
+[linkedin]: https://naimulalam.github.io/milestone1/
+[webdevplaylist]: https://naimulalam.github.io/milestone1/
+[jsplaylist]: https://naimulalam.github.io/milestone1/
+[cssplaylist]: https://naimulalam.github.io/milestone1/
+[reactplaylist]: https://naimulalam.github.io/milestone1/
+
