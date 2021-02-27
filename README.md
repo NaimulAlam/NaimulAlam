@@ -38,6 +38,8 @@
 
 <br />
 
+<br />
+
 <img width="550px" alt="Naimul Alam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=NaimulAlam&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulAlam&card_width=550)](https://github.com/NaimulAlam/NaimulAlam)
@@ -55,7 +57,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/NaimulAlam )  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NaimulAlam )  
 
 ![Profile views](https://gpvc.arturio.dev/NaimulAlam )  
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
