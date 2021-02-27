@@ -44,18 +44,15 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulAlam&card_width=550)](https://github.com/NaimulAlam/NaimulAlam)
 
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulAlam )](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ![GitHub metrics](https://metrics.lecoq.io/NaimulAlam )  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaimulAlam )  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaimulAlam )  
 
 
 ![Profile views](https://gpvc.arturio.dev/NaimulAlam )  
