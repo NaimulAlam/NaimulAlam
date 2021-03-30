@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm  [Mohammad Naimul Alam][website]
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 React & JavaScript Lover 😍😍!
 - 🎓 I’m currently Student of WSB, Poland.
 - 💻 Studing IT Engineering: Web App Developer
 - 🌱 I’m currently learning everything 🤣
