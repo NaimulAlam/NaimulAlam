@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm  [Mohammad Naimul Alam][website]
 
-## I'm a 😍😍 React & JavaScript Lover 😍😍!
+## I'm a Passionate Web developer 
 - 🎓 I’m currently Student of WSB, Poland.
-- 💻 Studing IT Engineering: Web App Developer
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: React, Angular, Mastering Python, SVNW
-- ⚡ Fun fact: I love to Explore the world 
+- 💻 Studing IT in Bussiness: Web App Developer
+- 🌱 I’m currently growing with practice and hardwork
+- 🥅 2021 Goals: React, Angular, Mastering Python, MySQL, Linux-Server, Spark DB
+- ⚡ Fun fact: I love to Explore the world And Biriyani(Food)
 
 ### Connect with me:
 
