@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm  [Mohammad Naimul Alam][website]
 
 ## I'm a Passionate Web developer 
-- 🎓 I’m currently Student of WSB, Poland.
+- 🎓 I’m currently Studing at WSB, Poland.
 - 💻 Studing IT in Bussiness: Web App Developer
 - 🌱 I’m currently growing with practice and hardwork
 - 🥅 2021 Goals: React, Angular, Mastering Python, MySQL, Linux-Server, Spark DB
