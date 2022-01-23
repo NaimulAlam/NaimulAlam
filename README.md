@@ -51,19 +51,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaimulAlam )   -->
-
-
 ![Profile views](https://gpvc.arturio.dev/NaimulAlam )  
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 <br />
 
-<!-- [programming]: https://naimulalam.netlify.app/ -->
 [website]: https://naimulalam.netlify.app/
 [linkedin]: https://www.linkedin.com/in/naimul-alam/
-<!-- [webdevplaylist]: https://naimulalam.github.io/milestone1/ -->
-<!-- [jsplaylist]: https://naimulalam.github.io/milestone1/ -->
-<!-- [cssplaylist]: https://naimulalam.github.io/milestone1/ -->
-<!-- [reactplaylist]: https://naimulalam.github.io/milestone1/ -->
 
