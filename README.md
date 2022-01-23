@@ -4,8 +4,8 @@
 - 🎓 I’m currently Studing at WSB, Poland.
 - 💻 Studing IT in Bussiness: Web App Developer
 - 🌱 I’m currently growing with practice and hardwork
-- 🥅 2021 Goals: React, Angular, Mastering Python, MySQL, Linux-Server, Spark DB
-- ⚡ Fun fact: I love to Explore the world And Biriyani(Food)
+- 🥅 2022 Goals: Mastering Python, PHP, Linux-Server, Spark DB
+- ⚡ Fun fact: I love to Explore the world, Games And Food.
 
 ### Connect with me:
 
@@ -51,7 +51,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaimulAlam )](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaimulAlam )  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaimulAlam )   -->
 
 
 ![Profile views](https://gpvc.arturio.dev/NaimulAlam )  
@@ -59,12 +59,11 @@
 
 <br />
 
-[programming]: https://naimulalam.github.io/milestone1/
-[website]: https://naimulalam.github.io/milestone1/
-[twitter]: https://naimulalam.github.io/milestone1/
-[linkedin]: https://naimulalam.github.io/milestone1/
-[webdevplaylist]: https://naimulalam.github.io/milestone1/
-[jsplaylist]: https://naimulalam.github.io/milestone1/
-[cssplaylist]: https://naimulalam.github.io/milestone1/
-[reactplaylist]: https://naimulalam.github.io/milestone1/
+<!-- [programming]: https://naimulalam.netlify.app/ -->
+[website]: https://naimulalam.netlify.app/
+[linkedin]: https://www.linkedin.com/in/naimul-alam/
+<!-- [webdevplaylist]: https://naimulalam.github.io/milestone1/ -->
+<!-- [jsplaylist]: https://naimulalam.github.io/milestone1/ -->
+<!-- [cssplaylist]: https://naimulalam.github.io/milestone1/ -->
+<!-- [reactplaylist]: https://naimulalam.github.io/milestone1/ -->
 
