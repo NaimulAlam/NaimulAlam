@@ -57,4 +57,8 @@
 
 [website]: https://naimulalam.netlify.app/
 [linkedin]: https://www.linkedin.com/in/naimul-alam/
+[webdevplaylist]: https://naimulalam.netlify.app/
+[jsplaylist]: https://naimulalam.netlify.app/
+[cssplaylist]: https://naimulalam.netlify.app/
+[reactplaylist]: https://naimulalam.netlify.app/
 
